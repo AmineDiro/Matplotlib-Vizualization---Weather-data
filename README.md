@@ -1,7 +1,7 @@
 # Matplotlib-Vizualization---Weather-data
 Broken decade highlow temperatures in 2015
 
-## Dataset Vizualization 
+## Dataset Visualization 
 
 We first plotted a linegraph of the recoprds high and low temperatures by day of the year over the 2005 - 2014 period.
 
